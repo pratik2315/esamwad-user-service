@@ -27,9 +27,9 @@ Both the apps are used by a different set of users and maintain their own user m
 > Shiksha sathi and e-Samwad login portal
 
 <p align="middle">
-<img src="images/sathi-login.jpg" width="150" height="300"/> 
+<img src="images/sathi-login.jpg" width="160" height="350"/> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="images/esamwad-login.jpg" width="150" height="300"/>
+<img src="images/esamwad-login.jpg" width="160" height="350"/>
 </p>
 
 ### 🪜 User Service High Level Diagram
