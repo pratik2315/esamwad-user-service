@@ -34,7 +34,7 @@ Both the apps are used by a different set of users and maintain their own user m
 
 ### 🪜 User Service High Level Diagram
 
-This diagram captures the high-level view of the User service and how different applications can register on the user service for using its APIs.
+This diagram captures the high-level view of the User service and how different applications can register on the user service for using its APIs:
 
 <p align="center">
 <img src="images/User-service_HLD.png" width="500" height="300"/>
